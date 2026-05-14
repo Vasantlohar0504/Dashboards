@@ -19,6 +19,7 @@ This repository contains dashboards focused on different domains such as **enter
 | 📈 `Sales Report.pbix`                    | Business sales performance dashboard with KPIs and trends                      |
 | 🎧 `Spotify_Dashboard.pbix`               | Music streaming analysis including artists, tracks, and user trends            |
 | 🎬 `netflix dashboard.pbix`               | Netflix content analysis with genres, release trends, and ratings              |
+| 📊 `LRZ Social Media Dashboard.pbix `     |ocial media engagement analysis with platform performance, audience growth, content trends, and engagement insights.              |
 
 ---
 
