@@ -15,7 +15,7 @@ This repository contains dashboards focused on different domains such as **enter
 | File Name                                  | Description                                                                    |
 | ----------------------------------------   | ------------------------------------------------------------------------------ |
 | 📦 `Amazon prime dashboard.pbix`          | Analysis of Amazon Prime content, genres, ratings, and trends                  |
-| 💼 `Data_Scientist_salary_analysis.pbix`  | Insights into data scientist salaries based on experience, location, and roles |
+| 💼 `Data_Scientist_salary_analysis.pbix`   | Insights into data scientist salaries based on experience, location, and roles |
 | 📈 `Sales Report.pbix`                    | Business sales performance dashboard with KPIs and trends                      |
 | 🎧 `Spotify_Dashboard.pbix`               | Music streaming analysis including artists, tracks, and user trends            |
 | 🎬 `netflix dashboard.pbix`               | Netflix content analysis with genres, release trends, and ratings              |
